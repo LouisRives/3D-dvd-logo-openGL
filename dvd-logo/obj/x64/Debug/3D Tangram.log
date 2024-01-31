@@ -1,0 +1,47 @@
+﻿  Animation.cpp
+  Collision.cpp
+  error.cpp
+  events.cpp
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(16,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(17,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(24,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\events.cpp(25,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\main.cpp(170,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  object.cpp
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(71,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(72,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(73,28): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(80,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(88,41): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\object.cpp(89,41): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  buffers.cpp
+  opengleShader.cpp
+  opengltexture.cpp
+  vertexAraay.cpp
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\renderer\vertexAraay.cpp(73,3): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\renderer\vertexAraay.cpp(74,3): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\renderer\vertexAraay.cpp(86,3): warning C4312: 'type cast': conversion from 'int' to 'const void *' of greater size
+C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\src\renderer\vertexAraay.cpp(99,19): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  stb_image.cpp
+  tiny_obj_loader.cc
+  Generating Code...
+GLFW.lib(input.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(input.obj)' or at ''; linking object as if no debug info
+GLFW.lib(init.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(init.obj)' or at ''; linking object as if no debug info
+GLFW.lib(window.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(window.obj)' or at ''; linking object as if no debug info
+GLFW.lib(context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_window.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_time.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_init.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+GLFW.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+GLFW.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(monitor.obj)' or at ''; linking object as if no debug info
+GLFW.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(vulkan.obj)' or at ''; linking object as if no debug info
+GLFW.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(egl_context.obj)' or at ''; linking object as if no debug info
+GLFW.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'GLFW.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  3D Tangram.vcxproj -> C:\Users\Louis\Desktop\COURS UNI\L3\S5-Brno\Computer graphics\project-final\dvd-logo-final\bin\x64\Debug\3D Tangram.exe
